@@ -181,3 +181,6 @@ DVC
     ECR_REPOSITORY_NAME = simple-app
 
 
+
+https://drive.google.com/file/d/1sv_k7hp5nZ3fO7-bv-9wrqhzKfEdJ5I3/view?usp=sharing
+
