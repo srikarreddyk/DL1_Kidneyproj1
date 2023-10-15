@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/KidneyProj1/Kidney-Disease-Classification-Deep-Learning-Project-main/mlruns/0/6ed7d211b24b4ade8c360f2e291d3fe7/artifacts
+end_time: 1697353195391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ed7d211b24b4ade8c360f2e291d3fe7
+run_name: suave-hound-59
+run_uuid: 6ed7d211b24b4ade8c360f2e291d3fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697353161805
+status: 3
+tags: []
+user_id: srikar
